@@ -76,7 +76,7 @@
     "semantic-release-vsce": "^2.1.2",
     "tslint": "^5.11.0",
     "typescript": "~3.2.2",
-    "vscode": "^1.1.22"
+    "vscode": "^1.1.29"
   },
   "config": {
     "commitizen": {
